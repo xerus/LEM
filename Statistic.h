@@ -11,15 +11,18 @@
  * Year: 2014
  * ----------------------------------------------------------------------------
  *
- * THIS SOFTWARE IS NOT COPYRIGHTED
+ * LEM is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
  *
- * This source code is offered for use in the public domain.
- * You may use, modify or distribute it freely.
+ * LEM is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
  *
- * This source code is distributed in the hope that it will be useful but
- * WITHOUT ANY WARRANTY.  ALL WARRANTIES, EXPRESS OR IMPLIED ARE HEREBY
- * DISCLAIMED.  This includes but is not limited to warranties of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ * You should have received a copy of the GNU General Public License
+ * along with LEM. If not, see <http://www.gnu.org/licenses/>.
  *
 \*****************************************************************************/
 #ifndef STATISTIC_H
